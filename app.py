@@ -676,3 +676,4 @@ async def StarTinG():
 
 if __name__ == '__main__':
     asyncio.run(StarTinG())
+    server Port 0.0.0.0
